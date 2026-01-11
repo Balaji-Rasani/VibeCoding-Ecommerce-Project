@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# VibeCoding-Ecommerce-Project
-=======
+
 # Mini Frontend E-Commerce Website
 
 A fully functional frontend-only e-commerce website built with React, Vite, and CSS. This project demonstrates a complete e-commerce flow without any backend integration.
@@ -163,6 +161,3 @@ Modern browsers that support:
 - CSS Grid and Flexbox
 
 ## License
-
-This project is for educational purposes.
->>>>>>> cea37ca (added Mini E-Commerce Project)
